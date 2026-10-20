@@ -1,0 +1,13 @@
+beautifulsoup4
+jupyter
+matplotlib
+numpy
+pandas
+plotly
+requests
+scikit-learn
+seaborn
+statsmodels
+torch
+transformers
+vaderSentiment
